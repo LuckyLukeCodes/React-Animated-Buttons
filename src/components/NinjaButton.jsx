@@ -2,7 +2,7 @@ const NinjaButton = () => {
   return (
     <a
       href="#"
-      className="group relative overflow-hidden border-2 border-slate-500 px-10 py-5 text-[0.68rem] font-semibold tracking-[0.3rem]"
+      className="group relative overflow-hidden rounded-lg border-2 border-slate-500 px-10 py-5 text-[0.68rem] font-semibold tracking-[0.3rem]"
     >
       <div className="relative top-0 h-[7px] overflow-hidden group-hover:-top-[5px]">
         <span className="uppercase">Hover Over Me</span>
